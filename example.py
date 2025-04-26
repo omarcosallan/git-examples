@@ -1,6 +1,6 @@
 def feature0():
     print("a")
-    return "feature 2"
+    return ""
 
 def feature2():
     ""
